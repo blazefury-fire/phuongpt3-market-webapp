@@ -1,0 +1,15 @@
+table,
+th,
+td {
+  border: 1px solid;
+}
+
+.table {
+    margin: 10px;
+}
+
+.total {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}

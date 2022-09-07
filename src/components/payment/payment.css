@@ -1,0 +1,14 @@
+.popup {
+    width: 50%;
+    display: flex;
+    border: 1px solid;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.contentInner {
+    display: flex;
+    flex-direction: row;
+}
